@@ -1,0 +1,29 @@
+{
+  "name": "W6-Mon-E1",
+  "version": "1.0.0",
+  "description": "Challenge 1 (02-14-2022)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelX09/W6-Mon-E1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelX09/W6-Mon-E1/issues"
+  },
+  "homepage": "https://github.com/JoelX09/W6-Mon-E1#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@types/uuid": "^8.3.4",
+    "enquirer": "^2.3.6",
+    "uuid": "^8.3.2"
+  }
+}
